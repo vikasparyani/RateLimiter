@@ -7,7 +7,7 @@ namespace AspNetCoreRateLimit
 {
     /// <summary>
     /// IP v4 and v6 range helper by jsakamoto
-    /// Fork from https://github.com/jsakamoto/ipaddressrange
+    /// Fork from 
     /// </summary>
     /// <example>
     /// "192.168.0.0/24" 

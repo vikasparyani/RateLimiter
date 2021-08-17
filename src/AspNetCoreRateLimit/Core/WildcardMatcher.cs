@@ -2,9 +2,7 @@
 {
     public static class WildcardMatcher
     {
-        // Thanks to Zoran Horvat
-        //http://www.c-sharpcorner.com/uploadfile/b81385/efficient-string-matching-algorithm-with-use-of-wildcard-characters/
-        //https://www.codinghelmet.com/?path=net/sysexpand/text/download
+        
         public static bool IsMatch(this string value, string pattern, char singleWildcard = '?', char multipleWildcard = '*')
         {
 
