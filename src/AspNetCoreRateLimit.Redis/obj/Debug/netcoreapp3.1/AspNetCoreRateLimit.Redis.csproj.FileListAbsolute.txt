@@ -1,0 +1,11 @@
+D:\GIT\ASpNetCoreRateLimit\src\AspNetCoreRateLimit.Redis\bin\Debug\netcoreapp3.1\AspNetCoreRateLimit.Redis.deps.json
+D:\GIT\ASpNetCoreRateLimit\src\AspNetCoreRateLimit.Redis\bin\Debug\netcoreapp3.1\AspNetCoreRateLimit.Redis.dll
+D:\GIT\ASpNetCoreRateLimit\src\AspNetCoreRateLimit.Redis\bin\Debug\netcoreapp3.1\AspNetCoreRateLimit.dll
+D:\GIT\ASpNetCoreRateLimit\src\AspNetCoreRateLimit.Redis\obj\Debug\netcoreapp3.1\AspNetCoreRateLimit.Redis.csproj.AssemblyReference.cache
+D:\GIT\ASpNetCoreRateLimit\src\AspNetCoreRateLimit.Redis\obj\Debug\netcoreapp3.1\AspNetCoreRateLimit.Redis.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT\ASpNetCoreRateLimit\src\AspNetCoreRateLimit.Redis\obj\Debug\netcoreapp3.1\AspNetCoreRateLimit.Redis.AssemblyInfoInputs.cache
+D:\GIT\ASpNetCoreRateLimit\src\AspNetCoreRateLimit.Redis\obj\Debug\netcoreapp3.1\AspNetCoreRateLimit.Redis.AssemblyInfo.cs
+D:\GIT\ASpNetCoreRateLimit\src\AspNetCoreRateLimit.Redis\obj\Debug\netcoreapp3.1\AspNetCoreRateLimit.Redis.csproj.CoreCompileInputs.cache
+D:\GIT\ASpNetCoreRateLimit\src\AspNetCoreRateLimit.Redis\obj\Debug\netcoreapp3.1\AspNetCoreRateLimit.Redis.sourcelink.json
+D:\GIT\ASpNetCoreRateLimit\src\AspNetCoreRateLimit.Redis\obj\Debug\netcoreapp3.1\AspNetCoreRateLimit.Redis.csproj.CopyComplete
+D:\GIT\ASpNetCoreRateLimit\src\AspNetCoreRateLimit.Redis\obj\Debug\netcoreapp3.1\AspNetCoreRateLimit.Redis.dll

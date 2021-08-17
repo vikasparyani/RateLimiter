@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = AspNetCoreRateLimit.Redis
+build_property.ProjectDir = D:\GIT\ASpNetCoreRateLimit\src\AspNetCoreRateLimit.Redis\

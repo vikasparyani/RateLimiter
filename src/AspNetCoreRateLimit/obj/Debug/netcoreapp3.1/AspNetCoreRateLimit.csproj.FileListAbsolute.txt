@@ -1,0 +1,8 @@
+D:\GIT\ASpNetCoreRateLimit\src\AspNetCoreRateLimit\bin\Debug\netcoreapp3.1\AspNetCoreRateLimit.deps.json
+D:\GIT\ASpNetCoreRateLimit\src\AspNetCoreRateLimit\bin\Debug\netcoreapp3.1\AspNetCoreRateLimit.dll
+D:\GIT\ASpNetCoreRateLimit\src\AspNetCoreRateLimit\obj\Debug\netcoreapp3.1\AspNetCoreRateLimit.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT\ASpNetCoreRateLimit\src\AspNetCoreRateLimit\obj\Debug\netcoreapp3.1\AspNetCoreRateLimit.AssemblyInfoInputs.cache
+D:\GIT\ASpNetCoreRateLimit\src\AspNetCoreRateLimit\obj\Debug\netcoreapp3.1\AspNetCoreRateLimit.AssemblyInfo.cs
+D:\GIT\ASpNetCoreRateLimit\src\AspNetCoreRateLimit\obj\Debug\netcoreapp3.1\AspNetCoreRateLimit.csproj.CoreCompileInputs.cache
+D:\GIT\ASpNetCoreRateLimit\src\AspNetCoreRateLimit\obj\Debug\netcoreapp3.1\AspNetCoreRateLimit.sourcelink.json
+D:\GIT\ASpNetCoreRateLimit\src\AspNetCoreRateLimit\obj\Debug\netcoreapp3.1\AspNetCoreRateLimit.dll
